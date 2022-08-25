@@ -1,0 +1,5 @@
+database:
+  username: root
+  password: root123
+  server: "127.0.0.1:3306"
+  db: flask_test0823
