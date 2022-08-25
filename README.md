@@ -1,4 +1,4 @@
-# flask_vue_test(Only for study)
+# flask_vue_test(For study use only)
 1、新增用例接口，id为空时，后端校验后，以目前用例列表最大id值+1 作为本次新增用例的id值；
 
 2、前端页面
